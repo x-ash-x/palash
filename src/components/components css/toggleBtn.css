@@ -1,0 +1,22 @@
+.form-switch .form-check-input{
+    width: 60px;
+    height: 20px;
+}
+
+
+.switch{
+    outline: 0;
+    outline: none;
+    box-shadow: none;
+}
+
+.switch:checked{
+    outline: 0;
+    outline: none;
+    box-shadow: none;
+}
+
+.switch:focus{
+    outline: none;
+        box-shadow: none;
+}

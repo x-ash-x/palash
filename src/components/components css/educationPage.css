@@ -1,0 +1,13 @@
+.accordion-body {
+	background-color: #439DE9;
+}
+
+.card{
+    /* height: 450px; */
+    border: 0;
+}
+
+.accordion-button:focus {
+	box-shadow: none;
+	border-color: rgba(0, 0, 0, 0.125);
+}

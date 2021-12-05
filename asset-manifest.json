@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/palash/static/css/main.dc70a297.chunk.css",
+    "main.js": "/palash/static/js/main.5e60de2e.chunk.js",
+    "main.js.map": "/palash/static/js/main.5e60de2e.chunk.js.map",
+    "runtime-main.js": "/palash/static/js/runtime-main.2ef1c023.js",
+    "runtime-main.js.map": "/palash/static/js/runtime-main.2ef1c023.js.map",
+    "static/js/2.24133ab7.chunk.js": "/palash/static/js/2.24133ab7.chunk.js",
+    "static/js/2.24133ab7.chunk.js.map": "/palash/static/js/2.24133ab7.chunk.js.map",
+    "static/js/3.827386cf.chunk.js": "/palash/static/js/3.827386cf.chunk.js",
+    "static/js/3.827386cf.chunk.js.map": "/palash/static/js/3.827386cf.chunk.js.map",
+    "index.html": "/palash/index.html",
+    "static/css/main.dc70a297.chunk.css.map": "/palash/static/css/main.dc70a297.chunk.css.map",
+    "static/js/2.24133ab7.chunk.js.LICENSE.txt": "/palash/static/js/2.24133ab7.chunk.js.LICENSE.txt",
+    "static/media/contactMePage.4b6552ea.png": "/palash/static/media/contactMePage.4b6552ea.png",
+    "static/media/educationPage.b4ca44f5.png": "/palash/static/media/educationPage.b4ca44f5.png",
+    "static/media/error.dca5d6ad.png": "/palash/static/media/error.dca5d6ad.png",
+    "static/media/img.e7f459b4.png": "/palash/static/media/img.e7f459b4.png",
+    "static/media/myPhoto.50cbbff8.png": "/palash/static/media/myPhoto.50cbbff8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ef1c023.js",
+    "static/js/2.24133ab7.chunk.js",
+    "static/css/main.dc70a297.chunk.css",
+    "static/js/main.5e60de2e.chunk.js"
+  ]
+}
